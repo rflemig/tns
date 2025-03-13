@@ -1,5 +1,5 @@
 
 projeto observabilidade opnsource
 Iniciar:
-/tns/docker-compose
+/tns/docker-compose/
 docker-compose up -d
